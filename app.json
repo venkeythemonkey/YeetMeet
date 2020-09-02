@@ -1,7 +1,7 @@
 {
 	"name": "Google Meet Telegram Bot",
   	"description": "Skip Online Lectures like a pro",
-  	"repository": "https://github.com/1337w0rm/YeetMeet",
+  	"repository": "https://github.com/venkeythemonkey/YeetMeet",
   	"keywords": ["selenium", "chromedriver", "python"],
   	"env": {
     "BOT_TOKEN": {
